@@ -1,10 +1,9 @@
 title: Leonardo Hernandez # your name (or website title) here
 logo: images/20181107_120325.jpg
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  
   <br>Data scientist with a background in plant physiological ecology and a passion for problem solving<br>
-  Second description 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/hernandez-leo/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
